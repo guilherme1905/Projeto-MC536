@@ -1,5 +1,5 @@
-﻿Doenca,UF,Casos
-Sarampo,Sao paulo,1
+Doenca,UF,Casos
+Sarampo,Sao Paulo,1
 Sarampo,Pernambuco,1
 Coqueluche,Rondonia,6
 Coqueluche,Acre,4
@@ -28,109 +28,109 @@ Coqueluche,Mato Grosso do Sul,95
 Coqueluche,Mato Grosso,23
 Coqueluche,Goias,75
 Coqueluche,Distrito Federal,62
-Tétano Neonatal,Para,1
-Tétano Neonatal,Minas Gerais,1
-Tétano,Rondonia,7
-Tétano,Acre,7
-Tétano,Amazonas,7
-Tétano,Roraima,1
-Tétano,Para,22
-Tétano,Maranhao,17
-Tétano,Piaui,4
-Tétano,Ceara,21
-Tétano,Rio Grande do Norte,6
-Tétano,Paraiba,10
-Tétano,Pernambuco,15
-Tétano,Alagoas,3
-Tétano,Sergipe,8
-Tétano,Bahia,18
-Tétano,Minas Gerais,33
-Tétano,Espirito Santo,4
-Tétano,Rio de Janeiro,10
-Tétano,Sao Paulo,21
-Tétano,Parana,13
-Tétano,Santa Catarina,13
-Tétano,Rio Grande do Sul,30
-Tétano,Mato Grosso do Sul,4
-Tétano,Mato Grosso,25
-Tétano,Goias,13
-Febre Hemorrágica da Dengue,Rondonia,9
-Febre Hemorrágica da Dengue,Amazonas,17
-Febre Hemorrágica da Dengue,Roraima,1
-Febre Hemorrágica da Dengue,Para,31
-Febre Hemorrágica da Dengue,Amapa,6
-Febre Hemorrágica da Dengue,Tocantins,18
-Febre Hemorrágica da Dengue,Maranhao,16
-Febre Hemorrágica da Dengue,Piaui,18
-Febre Hemorrágica da Dengue,Ceara,74
-Febre Hemorrágica da Dengue,Rio Grande do Norte,100
-Febre Hemorrágica da Dengue,Paraiba,40
-Febre Hemorrágica da Dengue,Pernambuco,35
-Febre Hemorrágica da Dengue,Alagoas,51
-Febre Hemorrágica da Dengue,Sergipe,18
-Febre Hemorrágica da Dengue,Bahia,89
-Febre Hemorrágica da Dengue,Minas Gerais,32
-Febre Hemorrágica da Dengue,Espirito Santo,72
-Febre Hemorrágica da Dengue,Rio de Janeiro,159
-Febre Hemorrágica da Dengue,Sao Paulo,39
-Febre Hemorrágica da Dengue,Parana,1
-Febre Hemorrágica da Dengue,Mato Grosso do Sul,33
-Febre Hemorrágica da Dengue,Mato Grosso,59
-Febre Hemorrágica da Dengue,Goias,144
-Febre Hemorrágica da Dengue,Distrito Federal,1
-Sífilis Congênita,Rondonia,45
-Sífilis Congênita,Acre,35
-Sífilis Congênita,Amazonas,158
-Sífilis Congênita,Roraima,40
-Sífilis Congênita,Para,427
-Sífilis Congênita,Amapa,49
-Sífilis Congênita,Tocantins,93
-Sífilis Congênita,Maranhao,199
-Sífilis Congênita,Piaui,83
-Sífilis Congênita,Ceara,913
-Sífilis Congênita,Rio Grande do Norte,282
-Sífilis Congênita,Paraiba,211
-Sífilis Congênita,Pernambuco,747
-Sífilis Congênita,Alagoas,356
-Sífilis Congênita,Sergipe,336
-Sífilis Congênita,Bahia,547
-Sífilis Congênita,Minas Gerais,488
-Sífilis Congênita,Espirito Santo,269
-Sífilis Congênita,Rio de Janeiro,2434
-Sífilis Congênita,Sao Paulo,1935
-Sífilis Congênita,Parana,299
-Sífilis Congênita,Santa Catarina,97
-Sífilis Congênita,Rio Grande do Sul,747
-Sífilis Congênita,Mato Grosso do Sul,183
-Sífilis Congênita,Mato Grosso,110
-Sífilis Congênita,Goias,113
-Sífilis Congênita,Distrito Federal,118
-Doença Meningocócica,Rondonia,8
-Doença Meningocócica,Amazonas,32
-Doença Meningocócica,Roraima,1
-Doença Meningocócica,Para,21
-Doença Meningocócica,Amapa,3
-Doença Meningocócica,Tocantins,6
-Doença Meningocócica,Maranhao,44
-Doença Meningocócica,Piaui,15
-Doença Meningocócica,Ceara,85
-Doença Meningocócica,Rio Grande do Norte,16
-Doença Meningocócica,Paraiba,11
-Doença Meningocócica,Pernambuco,103
-Doença Meningocócica,Alagoas,32
-Doença Meningocócica,Sergipe,18
-Doença Meningocócica,Bahia,132
-Doença Meningocócica,Minas Gerais,149
-Doença Meningocócica,Espirito Santo,28
-Doença Meningocócica,Rio de Janeiro,397
-Doença Meningocócica,Sao Paulo,1157
-Doença Meningocócica,Parana,57
-Doença Meningocócica,Santa Catarina,45
-Doença Meningocócica,Rio Grande do Sul,54
-Doença Meningocócica,Mato Grosso do Sul,11
-Doença Meningocócica,Mato Grosso,38
-Doença Meningocócica,Goias,56
-Doença Meningocócica,Distrito Federal,19
+Tetano Neonatal,Para,1
+Tetano Neonatal,Minas Gerais,1
+Tetano,Rondonia,7
+Tetano,Acre,7
+Tetano,Amazonas,7
+Tetano,Roraima,1
+Tetano,Para,22
+Tetano,Maranhao,17
+Tetano,Piaui,4
+Tetano,Ceara,21
+Tetano,Rio Grande do Norte,6
+Tetano,Paraiba,10
+Tetano,Pernambuco,15
+Tetano,Alagoas,3
+Tetano,Sergipe,8
+Tetano,Bahia,18
+Tetano,Minas Gerais,33
+Tetano,Espirito Santo,4
+Tetano,Rio de Janeiro,10
+Tetano,Sao Paulo,21
+Tetano,Parana,13
+Tetano,Santa Catarina,13
+Tetano,Rio Grande do Sul,30
+Tetano,Mato Grosso do Sul,4
+Tetano,Mato Grosso,25
+Tetano,Goias,13
+Febre Hemorragica da Dengue,Rondonia,9
+Febre Hemorragica da Dengue,Amazonas,17
+Febre Hemorragica da Dengue,Roraima,1
+Febre Hemorragica da Dengue,Para,31
+Febre Hemorragica da Dengue,Amapa,6
+Febre Hemorragica da Dengue,Tocantins,18
+Febre Hemorragica da Dengue,Maranhao,16
+Febre Hemorragica da Dengue,Piaui,18
+Febre Hemorragica da Dengue,Ceara,74
+Febre Hemorragica da Dengue,Rio Grande do Norte,100
+Febre Hemorragica da Dengue,Paraiba,40
+Febre Hemorragica da Dengue,Pernambuco,35
+Febre Hemorragica da Dengue,Alagoas,51
+Febre Hemorragica da Dengue,Sergipe,18
+Febre Hemorragica da Dengue,Bahia,89
+Febre Hemorragica da Dengue,Minas Gerais,32
+Febre Hemorragica da Dengue,Espirito Santo,72
+Febre Hemorragica da Dengue,Rio de Janeiro,159
+Febre Hemorragica da Dengue,Sao Paulo,39
+Febre Hemorragica da Dengue,Parana,1
+Febre Hemorragica da Dengue,Mato Grosso do Sul,33
+Febre Hemorragica da Dengue,Mato Grosso,59
+Febre Hemorragica da Dengue,Goias,144
+Febre Hemorragica da Dengue,Distrito Federal,1
+Sifilis Congenita,Rondonia,45
+Sifilis Congenita,Acre,35
+Sifilis Congenita,Amazonas,158
+Sifilis Congenita,Roraima,40
+Sifilis Congenita,Para,427
+Sifilis Congenita,Amapa,49
+Sifilis Congenita,Tocantins,93
+Sifilis Congenita,Maranhao,199
+Sifilis Congenita,Piaui,83
+Sifilis Congenita,Ceara,913
+Sifilis Congenita,Rio Grande do Norte,282
+Sifilis Congenita,Paraiba,211
+Sifilis Congenita,Pernambuco,747
+Sifilis Congenita,Alagoas,356
+Sifilis Congenita,Sergipe,336
+Sifilis Congenita,Bahia,547
+Sifilis Congenita,Minas Gerais,488
+Sifilis Congenita,Espirito Santo,269
+Sifilis Congenita,Rio de Janeiro,2434
+Sifilis Congenita,Sao Paulo,1935
+Sifilis Congenita,Parana,299
+Sifilis Congenita,Santa Catarina,97
+Sifilis Congenita,Rio Grande do Sul,747
+Sifilis Congenita,Mato Grosso do Sul,183
+Sifilis Congenita,Mato Grosso,110
+Sifilis Congenita,Goias,113
+Sifilis Congenita,Distrito Federal,118
+Doenca Meningococica,Rondonia,8
+Doenca Meningococica,Amazonas,32
+Doenca Meningococica,Roraima,1
+Doenca Meningococica,Para,21
+Doenca Meningococica,Amapa,3
+Doenca Meningococica,Tocantins,6
+Doenca Meningococica,Maranhao,44
+Doenca Meningococica,Piaui,15
+Doenca Meningococica,Ceara,85
+Doenca Meningococica,Rio Grande do Norte,16
+Doenca Meningococica,Paraiba,11
+Doenca Meningococica,Pernambuco,103
+Doenca Meningococica,Alagoas,32
+Doenca Meningococica,Sergipe,18
+Doenca Meningococica,Bahia,132
+Doenca Meningococica,Minas Gerais,149
+Doenca Meningococica,Espirito Santo,28
+Doenca Meningococica,Rio de Janeiro,397
+Doenca Meningococica,Sao Paulo,1157
+Doenca Meningococica,Parana,57
+Doenca Meningococica,Santa Catarina,45
+Doenca Meningococica,Rio Grande do Sul,54
+Doenca Meningococica,Mato Grosso do Sul,11
+Doenca Meningococica,Mato Grosso,38
+Doenca Meningococica,Goias,56
+Doenca Meningococica,Distrito Federal,19
 Meningite,Rondonia,87
 Meningite,Acre,16
 Meningite,Amazonas,154
@@ -158,30 +158,30 @@ Meningite,Mato Grosso do Sul,140
 Meningite,Mato Grosso,245
 Meningite,Goias,536
 Meningite,Distrito Federal,117
-Lepstospirose,Rondonia,14
-Lepstospirose,Acre,250
-Lepstospirose,Amazonas,74
-Lepstospirose,Roraima,3
-Lepstospirose,Para,102
-Lepstospirose,Amapa,72
-Lepstospirose,Tocantins,4
-Lepstospirose,Maranhao,21
-Lepstospirose,Piaui,2
-Lepstospirose,Ceara,59
-Lepstospirose,Rio Grande do Norte,14
-Lepstospirose,Paraiba,19
-Lepstospirose,Pernambuco,108
-Lepstospirose,Alagoas,48
-Lepstospirose,Sergipe,36
-Lepstospirose,Bahia,94
-Lepstospirose,Minas Gerais,124
-Lepstospirose,Espirito Santo,244
-Lepstospirose,Rio de Janeiro,192
-Lepstospirose,Sao Paulo,780
-Lepstospirose,Parana,235
-Lepstospirose,Santa Catarina,409
-Lepstospirose,Rio Grande do Sul,285
-Lepstospirose,Mato Grosso do Sul,6
-Lepstospirose,Mato Grosso,5
-Lepstospirose,Goias,22
-Lepstospirose,Distrito Federal,16
+Leptospirose,Rondonia,14
+Leptospirose,Acre,250
+Leptospirose,Amazonas,74
+Leptospirose,Roraima,3
+Leptospirose,Para,102
+Leptospirose,Amapa,72
+Leptospirose,Tocantins,4
+Leptospirose,Maranhao,21
+Leptospirose,Piaui,2
+Leptospirose,Ceara,59
+Leptospirose,Rio Grande do Norte,14
+Leptospirose,Paraiba,19
+Leptospirose,Pernambuco,108
+Leptospirose,Alagoas,48
+Leptospirose,Sergipe,36
+Leptospirose,Bahia,94
+Leptospirose,Minas Gerais,124
+Leptospirose,Espirito Santo,244
+Leptospirose,Rio de Janeiro,192
+Leptospirose,Sao Paulo,780
+Leptospirose,Parana,235
+Leptospirose,Santa Catarina,409
+Leptospirose,Rio Grande do Sul,285
+Leptospirose,Mato Grosso do Sul,6
+Leptospirose,Mato Grosso,5
+Leptospirose,Goias,22
+Leptospirose,Distrito Federal,16

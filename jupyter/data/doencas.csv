@@ -1,11 +1,61 @@
-Nome,Contaminacao
-Sarampo,1
-coqueluche,2
-tetano neonatal,3
-tetano,4
-febre hemorragica da dengue,5
-sifilis congenita,6
-doenca meningococica,7
-meningite,8
-leptospirose,9
-tuberculose,10
+Nome,Tratamento
+Colera,Sintomatico
+Tuberculose,Medicamento
+Meningite,Medicamento
+Pneumonia,Medicamento
+Sifilis,Antibioticos
+Tetano,Vacina
+Hanseniase,MedicamentoG
+Leptospirose,Medicamento
+Peste Bulbonica,Antibioticos
+Botulismo,Soro
+Antraz,Medicamento
+Linfogranuloma Venereo,Antibioticos
+Cancro Mole,Antibioticos
+Gonorreia,Antibioticos
+Coqueluche,Vacina
+AIDS,Medicamento
+Alergias,Imunoterapia
+Amebiase,Medicamento
+Anemia,Suplementos
+Artrite,Medicamento
+Artrose,Medicamento
+Ascaridiase,Medicamento
+Asma,Medicamento
+Autismo,Medicamento
+Calculo,Sintomatico
+Candidiase,Antibioticos
+Caxumba,Sintomatico
+Dengue,Sintomatico
+Depressao,Medicamento
+Diabetes,Insulina
+Doenca Meningococica,Antibioticos
+DST,Antibioticos
+Enxaqueca,Medicamento
+Escorbuto,Vitamina C
+Esquistossomose,Antiparasitarios
+Febre,Antibioticos
+Febre Amarela,Sintomatico
+Febre Hemorragica da Dengue,Sintomatico
+Filariose,Medicamento
+Giardiase,Medicamento
+Gigantismo,Medicamento
+Gripe Aviaria,Medicamento
+Hipertensao,Vida saudavel
+Ictericia,Medicamento
+Infeccao,Medicamento
+Leishmaniose,Medicamento
+Leucemia,Quimioterapia
+Mal de Parkinson,Medicamento
+Osteoporose,Cirurgias
+Parasitoses,Medicamento
+Poliomielite,
+Resfriado,Medicamento
+Rotavirus,Hidratacao
+Rubeola,
+Sarampo,
+Sarna,Medicamento
+Sifilis Congenita,Medicamento
+Sinusite,Medicamento
+Tetano Neonatal,Internamento
+Verminoses Humanas,Medicamento
