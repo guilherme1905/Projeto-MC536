@@ -1,0 +1,379 @@
+UF,Doenca,nCasos
+Rondonia,Diarreia,23
+Acre,Diarreia,18
+Amazonas,Diarreia,17
+Roraima,Diarreia,5
+Para,Diarreia,60
+Amapa,Diarreia,14
+Tocantins,Diarreia,44
+Maranhao,Diarreia,69
+Piaui,Diarreia,60
+Ceara,Diarreia,57
+Rio Grande do Norte,Diarreia,84
+Paraiba,Diarreia,101
+Pernambuco,Diarreia,73
+Alagoas,Diarreia,45
+Sergipe,Diarreia,33
+Bahia,Diarreia,148
+Minas Gerais,Diarreia,177
+Espirito Santo,Diarreia,22
+Rio de Janeiro,Diarreia,13
+Sao Paulo,Diarreia,54
+Parana,Diarreia,39
+Santa Catarina,Diarreia,24
+Rio Grande do Sul,Diarreia,39
+Mato Grosso do Sul,Diarreia,10
+Mato Grosso,Diarreia,39
+Goias,Diarreia,20
+Distrito Federal,Diarreia,0
+Rondonia,Leptospirose,8
+Acre,Leptospirose,5
+Amazonas,Leptospirose,7
+Roraima,Leptospirose,1
+Para,Leptospirose,8
+Amapa,Leptospirose,5
+Tocantins,Leptospirose,6
+Maranhao,Leptospirose,5
+Piaui,Leptospirose,3
+Ceara,Leptospirose,10
+Rio Grande do Norte,Leptospirose,8
+Paraiba,Leptospirose,13
+Pernambuco,Leptospirose,9
+Alagoas,Leptospirose,4
+Sergipe,Leptospirose,5
+Bahia,Leptospirose,24
+Minas Gerais,Leptospirose,45
+Espirito Santo,Leptospirose,13
+Rio de Janeiro,Leptospirose,6
+Sao Paulo,Leptospirose,22
+Parana,Leptospirose,13
+Santa Catarina,Leptospirose,4
+Rio Grande do Sul,Leptospirose,13
+Mato Grosso do Sul,Leptospirose,0
+Mato Grosso,Leptospirose,11
+Goias,Leptospirose,2
+Distrito Federal,Leptospirose,0
+Rondonia,Verminoses,20
+Acre,Verminoses,17
+Amazonas,Verminoses,17
+Roraima,Verminoses,3
+Para,Verminoses,52
+Amapa,Verminoses,15
+Tocantins,Verminoses,25
+Maranhao,Verminoses,57
+Piaui,Verminoses,38
+Ceara,Verminoses,40
+Rio Grande do Norte,Verminoses,52
+Paraiba,Verminoses,52
+Pernambuco,Verminoses,53
+Alagoas,Verminoses,39
+Sergipe,Verminoses,35
+Bahia,Verminoses,123
+Minas Gerais,Verminoses,159
+Espirito Santo,Verminoses,22
+Rio de Janeiro,Verminoses,5
+Sao Paulo,Verminoses,30
+Parana,Verminoses,21
+Santa Catarina,Verminoses,13
+Rio Grande do Sul,Verminoses,29
+Mato Grosso do Sul,Verminoses,3
+Mato Grosso,Verminoses,31
+Goias,Verminoses,9
+Distrito Federal,Verminoses,0
+Rondonia,Cólera,3
+Acre,Cólera,1
+Amazonas,Cólera,6
+Roraima,Cólera,0
+Para,Cólera,2
+Amapa,Cólera,1
+Tocantins,Cólera,0
+Maranhao,Cólera,4
+Piaui,Cólera,2
+Ceara,Cólera,3
+Rio Grande do Norte,Cólera,9
+Paraiba,Cólera,4
+Pernambuco,Cólera,7
+Alagoas,Cólera,1
+Sergipe,Cólera,1
+Bahia,Cólera,8
+Minas Gerais,Cólera,20
+Espirito Santo,Cólera,2
+Rio de Janeiro,Cólera,1
+Sao Paulo,Cólera,7
+Parana,Cólera,4
+Santa Catarina,Cólera,1
+Rio Grande do Sul,Cólera,6
+Mato Grosso do Sul,Cólera,0
+Mato Grosso,Cólera,4
+Goias,Cólera,0
+Distrito Federal,Cólera,0
+Rondonia,Difteria,4
+Acre,Difteria,5
+Amazonas,Difteria,3
+Roraima,Difteria,0
+Para,Difteria,7
+Amapa,Difteria,1
+Tocantins,Difteria,2
+Maranhao,Difteria,12
+Piaui,Difteria,7
+Ceara,Difteria,10
+Rio Grande do Norte,Difteria,13
+Paraiba,Difteria,9
+Pernambuco,Difteria,10
+Alagoas,Difteria,1
+Sergipe,Difteria,4
+Bahia,Difteria,16
+Minas Gerais,Difteria,23
+Espirito Santo,Difteria,3
+Rio de Janeiro,Difteria,2
+Sao Paulo,Difteria,10
+Parana,Difteria,3
+Santa Catarina,Difteria,2
+Rio Grande do Sul,Difteria,7
+Mato Grosso do Sul,Difteria,1
+Mato Grosso,Difteria,6
+Goias,Difteria,2
+Distrito Federal,Difteria,0
+Rondonia,Dengue,30
+Acre,Dengue,10
+Amazonas,Dengue,14
+Roraima,Dengue,6
+Para,Dengue,59
+Amapa,Dengue,12
+Tocantins,Dengue,44
+Maranhao,Dengue,72
+Piaui,Dengue,61
+Ceara,Dengue,90
+Rio Grande do Norte,Dengue,87
+Paraiba,Dengue,114
+Pernambuco,Dengue,90
+Alagoas,Dengue,48
+Sergipe,Dengue,51
+Bahia,Dengue,162
+Minas Gerais,Dengue,226
+Espirito Santo,Dengue,30
+Rio de Janeiro,Dengue,18
+Sao Paulo,Dengue,87
+Parana,Dengue,51
+Santa Catarina,Dengue,8
+Rio Grande do Sul,Dengue,12
+Mato Grosso do Sul,Dengue,21
+Mato Grosso,Dengue,48
+Goias,Dengue,50
+Distrito Federal,Dengue,0
+Rondonia,Zika,16
+Acre,Zika,1
+Amazonas,Zika,4
+Roraima,Zika,6
+Para,Zika,36
+Amapa,Zika,1
+Tocantins,Zika,25
+Maranhao,Zika,46
+Piaui,Zika,25
+Ceara,Zika,59
+Rio Grande do Norte,Zika,52
+Paraiba,Zika,96
+Pernambuco,Zika,69
+Alagoas,Zika,32
+Sergipe,Zika,29
+Bahia,Zika,123
+Minas Gerais,Zika,75
+Espirito Santo,Zika,15
+Rio de Janeiro,Zika,11
+Sao Paulo,Zika,26
+Parana,Zika,8
+Santa Catarina,Zika,4
+Rio Grande do Sul,Zika,8
+Mato Grosso do Sul,Zika,7
+Mato Grosso,Zika,30
+Goias,Zika,10
+Distrito Federal,Zika,0
+Rondonia,Chikungunya,12
+Acre,Chikungunya,3
+Amazonas,Chikungunya,5
+Roraima,Chikungunya,5
+Para,Chikungunya,36
+Amapa,Chikungunya,1
+Tocantins,Chikungunya,29
+Maranhao,Chikungunya,59
+Piaui,Chikungunya,31
+Ceara,Chikungunya,94
+Rio Grande do Norte,Chikungunya,73
+Paraiba,Chikungunya,112
+Pernambuco,Chikungunya,85
+Alagoas,Chikungunya,37
+Sergipe,Chikungunya,46
+Bahia,Chikungunya,133
+Minas Gerais,Chikungunya,89
+Espirito Santo,Chikungunya,17
+Rio de Janeiro,Chikungunya,9
+Sao Paulo,Chikungunya,25
+Parana,Chikungunya,8
+Santa Catarina,Chikungunya,5
+Rio Grande do Sul,Chikungunya,8
+Mato Grosso do Sul,Chikungunya,7
+Mato Grosso,Chikungunya,26
+Goias,Chikungunya,3
+Distrito Federal,Chikungunya,0
+Rondonia,Tifo,1
+Acre,Tifo,2
+Amazonas,Tifo,0
+Roraima,Tifo,0
+Para,Tifo,2
+Amapa,Tifo,1
+Tocantins,Tifo,0
+Maranhao,Tifo,2
+Piaui,Tifo,0
+Ceara,Tifo,3
+Rio Grande do Norte,Tifo,3
+Paraiba,Tifo,2
+Pernambuco,Tifo,6
+Alagoas,Tifo,0
+Sergipe,Tifo,0
+Bahia,Tifo,4
+Minas Gerais,Tifo,11
+Espirito Santo,Tifo,2
+Rio de Janeiro,Tifo,1
+Sao Paulo,Tifo,4
+Parana,Tifo,2
+Santa Catarina,Tifo,1
+Rio Grande do Sul,Tifo,6
+Mato Grosso do Sul,Tifo,1
+Mato Grosso,Tifo,2
+Goias,Tifo,0
+Distrito Federal,Tifo,0
+Rondonia,Malária,11
+Acre,Malária,11
+Amazonas,Malária,14
+Roraima,Malária,5
+Para,Malária,32
+Amapa,Malária,14
+Tocantins,Malária,3
+Maranhao,Malária,12
+Piaui,Malária,2
+Ceara,Malária,2
+Rio Grande do Norte,Malária,2
+Paraiba,Malária,3
+Pernambuco,Malária,1
+Alagoas,Malária,1
+Sergipe,Malária,1
+Bahia,Malária,4
+Minas Gerais,Malária,18
+Espirito Santo,Malária,7
+Rio de Janeiro,Malária,3
+Sao Paulo,Malária,11
+Parana,Malária,4
+Santa Catarina,Malária,1
+Rio Grande do Sul,Malária,5
+Mato Grosso do Sul,Malária,0
+Mato Grosso,Malária,13
+Goias,Malária,1
+Distrito Federal,Malária,0
+Rondonia,Hepatite,11
+Acre,Hepatite,13
+Amazonas,Hepatite,13
+Roraima,Hepatite,3
+Para,Hepatite,29
+Amapa,Hepatite,4
+Tocantins,Hepatite,16
+Maranhao,Hepatite,26
+Piaui,Hepatite,9
+Ceara,Hepatite,12
+Rio Grande do Norte,Hepatite,22
+Paraiba,Hepatite,23
+Pernambuco,Hepatite,24
+Alagoas,Hepatite,10
+Sergipe,Hepatite,9
+Bahia,Hepatite,39
+Minas Gerais,Hepatite,51
+Espirito Santo,Hepatite,13
+Rio de Janeiro,Hepatite,6
+Sao Paulo,Hepatite,28
+Parana,Hepatite,12
+Santa Catarina,Hepatite,11
+Rio Grande do Sul,Hepatite,20
+Mato Grosso do Sul,Hepatite,4
+Mato Grosso,Hepatite,17
+Goias,Hepatite,3
+Distrito Federal,Hepatite,0
+Rondonia,Febre Amarela,2
+Acre,Febre Amarela,2
+Amazonas,Febre Amarela,4
+Roraima,Febre Amarela,1
+Para,Febre Amarela,10
+Amapa,Febre Amarela,2
+Tocantins,Febre Amarela,0
+Maranhao,Febre Amarela,10
+Piaui,Febre Amarela,2
+Ceara,Febre Amarela,3
+Rio Grande do Norte,Febre Amarela,3
+Paraiba,Febre Amarela,4
+Pernambuco,Febre Amarela,1
+Alagoas,Febre Amarela,2
+Sergipe,Febre Amarela,2
+Bahia,Febre Amarela,10
+Minas Gerais,Febre Amarela,54
+Espirito Santo,Febre Amarela,16
+Rio de Janeiro,Febre Amarela,3
+Sao Paulo,Febre Amarela,12
+Parana,Febre Amarela,4
+Santa Catarina,Febre Amarela,1
+Rio Grande do Sul,Febre Amarela,5
+Mato Grosso do Sul,Febre Amarela,0
+Mato Grosso,Febre Amarela,8
+Goias,Febre Amarela,0
+Distrito Federal,Febre Amarela,0
+Rondonia,Dermatite,7
+Acre,Dermatite,9
+Amazonas,Dermatite,10
+Roraima,Dermatite,3
+Para,Dermatite,27
+Amapa,Dermatite,2
+Tocantins,Dermatite,15
+Maranhao,Dermatite,25
+Piaui,Dermatite,12
+Ceara,Dermatite,20
+Rio Grande do Norte,Dermatite,24
+Paraiba,Dermatite,34
+Pernambuco,Dermatite,20
+Alagoas,Dermatite,19
+Sergipe,Dermatite,14
+Bahia,Dermatite,49
+Minas Gerais,Dermatite,61
+Espirito Santo,Dermatite,9
+Rio de Janeiro,Dermatite,3
+Sao Paulo,Dermatite,19
+Parana,Dermatite,9
+Santa Catarina,Dermatite,10
+Rio Grande do Sul,Dermatite,14
+Mato Grosso do Sul,Dermatite,1
+Mato Grosso,Dermatite,12
+Goias,Dermatite,3
+Distrito Federal,Dermatite,0
+Rondonia,Doença do aparelho respiratório,12
+Acre,Doença do aparelho respiratório,6
+Amazonas,Doença do aparelho respiratório,7
+Roraima,Doença do aparelho respiratório,3
+Para,Doença do aparelho respiratório,32
+Amapa,Doença do aparelho respiratório,6
+Tocantins,Doença do aparelho respiratório,23
+Maranhao,Doença do aparelho respiratório,34
+Piaui,Doença do aparelho respiratório,27
+Ceara,Doença do aparelho respiratório,35
+Rio Grande do Norte,Doença do aparelho respiratório,33
+Paraiba,Doença do aparelho respiratório,46
+Pernambuco,Doença do aparelho respiratório,36
+Alagoas,Doença do aparelho respiratório,20
+Sergipe,Doença do aparelho respiratório,19
+Bahia,Doença do aparelho respiratório,75
+Minas Gerais,Doença do aparelho respiratório,98
+Espirito Santo,Doença do aparelho respiratório,9
+Rio de Janeiro,Doença do aparelho respiratório,7
+Sao Paulo,Doença do aparelho respiratório,36
+Parana,Doença do aparelho respiratório,12
+Santa Catarina,Doença do aparelho respiratório,8
+Rio Grande do Sul,Doença do aparelho respiratório,23
+Mato Grosso do Sul,Doença do aparelho respiratório,9
+Mato Grosso,Doença do aparelho respiratório,26
+Goias,Doença do aparelho respiratório,8
+Distrito Federal,Doença do aparelho respiratório,0
