@@ -1,0 +1,28 @@
+﻿Nome,Regiao,Nota_saneamento,n_municipios
+Rondonia,N,0.77,52
+Acre,N,1.36,22
+Amazonas,N,0.97,62
+Roraima,N,0.74,62
+Para,N,0.49,144
+Amapa,N,1.25,16
+Tocantins,N,0.36,139
+Minas Gerais,SE,0.88,853
+Espirito Santo,SE,0.77,78
+Rio de Janeiro,SE,1.2,92
+Sao Paulo,SE,0.65,645
+Parana,S,1.03,399
+Santa Catarina,S,4.27,295
+Rio Grande do Sul,S,1.81,497
+Mato Grosso do Sul,CO,1.39,79
+Mato Grosso,CO,1.63,141
+Goias,CO,0.93,246
+DistritoFederal,CO,5.13,1
+Maranhao,NE,0.51,217
+Piaui,NE,0.98,224
+Ceara,NE,0.6,184
+Rio Grande do Norte,NE,0.6,167
+Paraiba,NE,0.58,223
+Pernambuco,NE,0.59,185
+Alagoas,NE,0.59,102
+Sergipe,NE,0.4,75
+Bahia,NE,0.3,417
