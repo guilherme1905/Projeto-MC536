@@ -1,0 +1,314 @@
+<?xml version="1.0"?>
+<regioes>
+    <regiao nome="Norte">
+        <estado nome="Rondônia">
+            <saneamento>0.77</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>6</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>7</casos>
+            </doenca>
+        </estado>
+        <estado nome="Acre">
+            <saneamento>1.36</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>4</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>7</casos>
+            </doenca>
+        </estado>
+        <estado nome="Amazonas">
+            <saneamento>0.97</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>171</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>7</casos>
+            </doenca>
+        </estado>
+        <estado nome="Roraima">
+            <saneamento>0.74</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>7</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>1</casos>
+            </doenca>
+        </estado>
+        <estado nome="Pará">
+            <saneamento>0.49</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>73</casos>
+            </doenca>
+            <doenca nome="Tétano Neonatal">
+                <tratamento></tratamento>
+                <casos>1</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>22</casos>
+            </doenca>
+        </estado>
+        <estado nome="Amapá">
+            <saneamento>1.25</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>19</casos>
+            </doenca>
+        </estado>
+        <estado nome="Tocantins">
+            <saneamento>0.36</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>10</casos>
+            </doenca>
+        </estado>
+    </regiao>
+    <regiao nome="Nordeste">
+        <estado nome="Maranhão">
+            <saneamento>0.51</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>33</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>17</casos>
+            </doenca>
+        </estado>
+        <estado nome="Piauí">
+            <saneamento>0.98</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>4</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>4</casos>
+            </doenca>
+        </estado>
+        <estado nome="Ceará">
+            <saneamento>0.6</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>41</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>21</casos>
+            </doenca>
+        </estado>
+        <estado nome="Rio Grande do Norte">
+            <saneamento>0.6</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>146</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>6</casos>
+            </doenca>
+        </estado>
+        <estado nome="Paraíba">
+            <saneamento>0.58</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>15</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>10</casos>
+            </doenca>
+        </estado>
+        <estado nome="Pernambuco">
+            <saneamento>0.59</saneamento>
+            <doenca nome="Sarampo">
+                <tratamento>Sintomático</tratamento>
+                <casos>1</casos>
+            </doenca>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>239</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>15</casos>
+            </doenca>
+        </estado>
+        <estado nome="Alagoas">
+            <saneamento>0.59</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>33</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>3</casos>
+            </doenca>
+        </estado>
+        <estado nome="Sergipe">
+            <saneamento>0.4</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>3</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>8</casos>
+            </doenca>
+        </estado>
+        <estado nome="Bahia">
+            <saneamento>0.43</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>145</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>18</casos>
+            </doenca>
+        </estado>
+    </regiao>
+    <regiao nome="Centro-Oeste">
+        <estado nome="Mato Grosso do Sul">
+            <saneamento>1.39</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>23</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>4</casos>
+            </doenca>
+        </estado>
+        <estado nome="Mato Grosso">
+            <saneamento>1.63</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>95</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>25</casos>
+            </doenca>
+        </estado>
+        <estado nome="Goiás">
+            <saneamento>0.93</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>75</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>13</casos>
+            </doenca>
+        </estado>
+        <estado nome="Distrito Federal">
+            <saneamento>5.13</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>62</casos>
+            </doenca>
+        </estado>
+    </regiao>
+    <regiao nome="Sudeste">
+        <estado nome="Minas Gerais">
+            <saneamento>0.88</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>301</casos>
+            </doenca>
+            <doenca nome="Tétano Neonatal">
+                <tratamento></tratamento>
+                <casos>1</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>33</casos>
+            </doenca>
+        </estado>
+        <estado nome="Espírito Santo">
+            <saneamento>0.77</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>1115</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>4</casos>
+            </doenca>
+        </estado>
+        <estado nome="Rio de Janeiro">
+            <saneamento>1.2</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>256</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>10</casos>
+            </doenca>
+        </estado>
+        <estado nome="São Paulo">
+            <saneamento>0.65</saneamento>
+            <doenca nome="Sarampo">
+                <tratamento>Sintomático</tratamento>
+                <casos>1</casos>
+            </doenca>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>1037</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>21</casos>
+            </doenca>
+        </estado>
+    </regiao>
+    <regiao nome="Sul">
+        <estado nome="Paraná">
+            <saneamento>1.03</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>397</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>13</casos>
+            </doenca>
+        </estado>
+        <estado nome="Santa Catarina">
+            <saneamento>4.27</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>299</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>30</casos>
+            </doenca>
+        </estado>
+        <estado nome="Rio Grande do Sul">
+            <saneamento>1.81</saneamento>
+            <doenca nome="Coqueluche">
+                <tratamento>Vacina</tratamento>
+                <casos>751</casos>
+            </doenca>
+            <doenca nome="Tétano">
+                <tratamento>Vacina</tratamento>
+                <casos>30</casos>
+            </doenca>
+        </estado>
+    </regiao>
+</regioes>
